@@ -5,7 +5,6 @@ Hi there, I'm Divya Farswan 👋
 💻 Looking to collaborate on open-source projects related to web development, especially MERN stack-based applications.  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/divya-farswan).  
 😄 Pronouns: She/Her  
-⚡ Fun fact: I love traveling and exploring new places, which inspires my creativity in web design.
 .
 
 <!---
