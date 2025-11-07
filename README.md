@@ -23,6 +23,7 @@
 
 💬 *"Every line of code makes me more confident than yesterday."* ✨  
 📫 Reach me at: **divyaf01@gmail.com**
+
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/divya-farswan).
 
 <!---
