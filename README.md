@@ -22,10 +22,8 @@
 ---
 
 💬 *"Every line of code makes me more confident than yesterday."* ✨  
-📫 Reach me at: **divyaf01@gmail.com/**
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/divya-farswan).  
-😄 Pronouns: She/Her  
-.
+📫 Reach me at: **divyaf01@gmail.com**
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/divya-farswan).
 
 <!---
 Divya-Farswan/Divya-Farswan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
