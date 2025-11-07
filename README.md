@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Divya
-
+## 👋 Hi, I'm Divya
 🌱 Learning MERN Stack (MongoDB, Express.js, React.js, Node.js)  
 💻 Building real-world web projects step by step  
 🚀 Exploring open-source and backend development  
@@ -22,8 +21,7 @@
 ---
 
 💬 *"Every line of code makes me more confident than yesterday."* ✨  
-📫 Reach me at: **divyaf01@gmail.com**
-
+📫 Reach me at: **divyaf01@gmail.com**.
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/divya-farswan).
 
 <!---
