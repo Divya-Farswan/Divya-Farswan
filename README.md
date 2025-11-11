@@ -7,7 +7,6 @@
 ### 🛠️ Projects I'm Proud Of
 - 🍔 **Food Delivery App** – Built with React.js and Node.js  
 - 📰 **News App** – Fetches live news using external APIs  
-- 💰 **Fundraising Portal** *(In Progress)* – Secure donation tracking with MERN stack
 
 ### 📚 What I'm Learning Now
 - REST APIs & Middleware in Express.js  
